@@ -1,0 +1,122 @@
+2026-01-06 17:09:08,639 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:09:08,656 - LibrarySystem - INFO - User registered: admin (Role: admin)
+2026-01-06 17:09:08,658 - LibrarySystem - INFO - User logged in: admin
+2026-01-06 17:09:08,670 - LibrarySystem - INFO - Admin admin added book: Python Programming (ISBN: 978-7-111)
+2026-01-06 17:09:08,675 - LibrarySystem - INFO - User registered: student (Role: user)
+2026-01-06 17:09:08,677 - LibrarySystem - INFO - User logged in: student
+2026-01-06 17:09:08,686 - LibrarySystem - INFO - User student borrowed 'Python Programming'
+2026-01-06 17:21:13,299 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:21:48,324 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:22:03,463 - LibrarySystem - WARNING - Login failed for user: jonqing
+2026-01-06 17:22:25,067 - LibrarySystem - INFO - User registered: jonqing (Role: admin)
+2026-01-06 17:22:32,015 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-06 17:23:06,891 - LibrarySystem - INFO - Admin jonqing added book: Python基础 (ISBN: 2)
+2026-01-06 17:24:33,464 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-06 17:24:51,869 - LibrarySystem - INFO - User registered: jonqing2 (Role: user)
+2026-01-06 17:25:05,116 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-06 17:25:57,100 - LibrarySystem - INFO - User jonqing2 borrowed 'Python基础'
+2026-01-06 17:26:36,592 - LibrarySystem - INFO - User jonqing2 returned 'Python基础'
+2026-01-06 17:26:53,043 - LibrarySystem - INFO - User jonqing2 borrowed 'Python基础'
+2026-01-06 17:28:20,729 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-06 17:30:42,242 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:30:52,073 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-06 17:30:57,287 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-06 17:35:22,984 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:35:33,539 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-06 17:36:33,966 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-06 17:36:41,110 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:36:53,117 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-06 17:38:32,815 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-06 17:38:36,489 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:38:47,060 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-06 17:38:50,439 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-06 17:38:59,179 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-06 17:42:34,669 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-06 17:42:44,541 - LibrarySystem - INFO - Database initialized with URL: sqlite:///library.db
+2026-01-06 17:42:59,316 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-06 17:43:59,185 - LibrarySystem - INFO - Admin jonqing added book: 三角洲通天护是怎样炼成的 (ISBN: 3)
+2026-01-06 17:45:53,220 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 14:41:07,490 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 14:41:26,653 - LibrarySystem - INFO - User registered: jonqing3 (Role: user)
+2026-01-07 14:52:04,993 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 14:52:13,740 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 14:53:07,911 - LibrarySystem - INFO - Admin jonqing removed book: 三角洲通天护是怎样炼成的 (ISBN: 3)
+2026-01-07 14:53:16,464 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 14:53:25,252 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-07 14:53:49,230 - LibrarySystem - INFO - User jonqing2 borrowed 'Python基础'
+2026-01-07 14:53:55,432 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-07 15:38:33,019 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 15:38:33,030 - LibrarySystem - INFO - User registered: admin (Role: admin)
+2026-01-07 15:38:33,032 - LibrarySystem - INFO - User logged in: admin
+2026-01-07 15:38:33,038 - LibrarySystem - INFO - Admin admin added book: Python Programming (ISBN: 978-7-111)
+2026-01-07 15:38:33,041 - LibrarySystem - INFO - User registered: student (Role: user)
+2026-01-07 15:38:33,043 - LibrarySystem - INFO - User logged in: student
+2026-01-07 15:38:33,048 - LibrarySystem - INFO - User student borrowed 'Python Programming'
+2026-01-07 15:40:34,031 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 15:40:42,761 - LibrarySystem - WARNING - Login failed for user: jonqing
+2026-01-07 15:40:54,896 - LibrarySystem - INFO - User registered: jonqing (Role: admin)
+2026-01-07 15:41:02,913 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 15:41:04,683 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 15:47:37,524 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 15:47:48,560 - LibrarySystem - INFO - User registered: jonqing2 (Role: user)
+2026-01-07 15:47:55,203 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-07 15:48:11,627 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-07 15:48:18,613 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 15:49:19,460 - LibrarySystem - INFO - Admin jonqing added book: 心跳引擎 (ISBN: 123)
+2026-01-07 15:50:23,108 - LibrarySystem - INFO - Admin jonqing added book: 三角洲通天护是如何炼成的 (ISBN: 123)
+2026-01-07 18:24:22,090 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 18:41:04,094 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 18:41:47,846 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 18:41:56,107 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 18:42:08,073 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 18:42:16,603 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-07 18:47:27,391 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 18:47:37,103 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 18:48:15,255 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 18:48:26,017 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-07 18:48:33,803 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-07 18:53:19,350 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 18:53:28,644 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 18:54:30,131 - LibrarySystem - INFO - Admin jonqing added book: 三角洲通天代是如何炼成的 (ISBN: 2)
+2026-01-07 19:12:33,226 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 19:12:43,816 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 19:12:55,403 - LibrarySystem - INFO - User jonqing borrowed '三角洲通天代是如何炼成的'
+2026-01-07 19:15:58,590 - LibrarySystem - INFO - Admin jonqing added book: 浩煊教你过六级 (ISBN: 9787519918781)
+2026-01-07 19:16:14,088 - LibrarySystem - INFO - User jonqing borrowed '浩煊教你过六级'
+2026-01-07 19:17:06,655 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 19:56:35,109 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 19:56:46,916 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:03:44,241 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:03:58,717 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:10:06,315 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:10:14,352 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:13:06,167 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:13:15,230 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:15:42,488 - LibrarySystem - INFO - Admin jonqing added book: 大学物理 (ISBN: 9787544677042)
+2026-01-07 20:18:18,472 - LibrarySystem - INFO - Admin jonqing added book: Java SpringBoot进阶 (ISBN: 9787040602647)
+2026-01-07 20:18:54,246 - LibrarySystem - INFO - User jonqing borrowed 'Java SpringBoot进阶'
+2026-01-07 20:19:02,547 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 20:19:12,188 - LibrarySystem - INFO - User logged in: jonqing2
+2026-01-07 20:19:22,127 - LibrarySystem - INFO - User jonqing2 borrowed 'Java SpringBoot进阶'
+2026-01-07 20:19:28,482 - LibrarySystem - INFO - User jonqing2 returned 'Java SpringBoot进阶' (ISBN: 9787040602647)
+2026-01-07 20:19:33,230 - LibrarySystem - INFO - User logged out: jonqing2
+2026-01-07 20:22:21,622 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:22:30,067 - LibrarySystem - WARNING - Login failed for user: jonqing
+2026-01-07 20:22:36,655 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:23:54,359 - LibrarySystem - INFO - Admin jonqing added book: Linux小白进阶之旅 (ISBN: 946512310)
+2026-01-07 20:24:27,045 - LibrarySystem - INFO - Admin jonqing added book: 测试书籍1 (ISBN: 3)
+2026-01-07 20:24:47,901 - LibrarySystem - INFO - Admin jonqing added book: 测试书籍2 (ISBN: 4)
+2026-01-07 20:25:52,723 - LibrarySystem - INFO - Admin jonqing added book: 高等数学上册 (ISBN: 9787121344411)
+2026-01-07 20:26:47,141 - LibrarySystem - INFO - Admin jonqing added book: 马克思主义基本原理 (ISBN: 9787040599008)
+2026-01-07 20:27:02,874 - LibrarySystem - INFO - User logged out: jonqing
+2026-01-07 20:27:22,996 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:32:21,653 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:35:18,174 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:35:39,835 - LibrarySystem - WARNING - Login failed for user: jongqing
+2026-01-07 20:35:48,880 - LibrarySystem - WARNING - Login failed for user: jongqing
+2026-01-07 20:36:03,198 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 20:38:27,906 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:38:47,188 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 20:39:07,809 - LibrarySystem - INFO - User logged in: jonqing
+2026-01-07 22:04:34,237 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
+2026-01-07 23:38:00,918 - LibrarySystem - INFO - 数据库初始化成功: sqlite:///library.db
